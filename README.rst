@@ -25,7 +25,7 @@ Visualización previa
 
 Visualización previa del tema de este sitio, se presenta a continuación:
 
-.. image:: https://raw.githubusercontent.com/macagua/webcunibe-cultura/master/master/screenshot.png 
+.. image:: https://raw.githubusercontent.com/macagua/webcunibe-cultura/master/screenshot.png
 
 Descargas
 =========
