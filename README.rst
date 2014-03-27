@@ -12,9 +12,11 @@ Dr. Rafael Belloso Chacín (CUNIBE).
 Características
 ===============
 
-- Construido bajo el Sistema Operativo Windows NT.
+- Construido bajo el Sistema Operativo `Windows NT`_.
 
-- Construido con el editor de páginas web WYSIWYG Adobe GoLive 6.
+- Construido con el editor de páginas web WYSIWYG `Adobe GoLive`_ 6.
+
+- Los menús de navegación construidos con el software `Sothink DHTML Menu`_.
 
 - Contenido generado con HTML 4, CSS, Javascript.
 
@@ -54,3 +56,6 @@ https://github.com/macagua/webcunibe-cultura/contributors
 
 .. _sitio Web de Cunibe: http://www.cunibe.org/
 .. _repositorio personal del Macagua: https://github.com/macagua/webcunibe-cultura
+.. _Windows NT: http://es.wikipedia.org/wiki/Windows_NT
+.. _Adobe GoLive: http://es.wikipedia.org/wiki/Adobe_GoLive
+.. _Sothink DHTML Menu: http://www.sothink.com/product/dhtmlmenu/
