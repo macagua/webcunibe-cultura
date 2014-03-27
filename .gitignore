@@ -1,0 +1,9 @@
+*~
+*.tmp*
+*.kpf
+*.swp
+*.wpr
+.project
+
+# OSX
+.DS_Store

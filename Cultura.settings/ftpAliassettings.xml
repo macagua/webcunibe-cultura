@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="ftpAlias" version="1.0">
+	<attributes>
+		<attribute name="active" value="yes"/>
+		<attribute name="category" value=""/>
+		<attribute name="name" value="Cultura"/>
+		<list name="options">
+			<item>
+				<attribute name="optionsKey" value="ALIVE"/>
+				<attribute name="optionsValue" value="YES"/>
+			</item>
+			<item>
+				<attribute name="optionsKey" value="ISO"/>
+				<attribute name="optionsValue" value="NO"/>
+			</item>
+			<item>
+				<attribute name="optionsKey" value="PASSIVE"/>
+				<attribute name="optionsValue" value="NO"/>
+			</item>
+			<item>
+				<attribute name="optionsKey" value="RESOLVE"/>
+				<attribute name="optionsValue" value="YES"/>
+			</item>
+		</list>
+		<attribute name="password" value=""/>
+		<attribute name="protocol" value="FTP"/>
+		<attribute name="savePassword" value="no"/>
+		<attribute name="url" value=""/>
+		<attribute name="username" value=""/>
+	</attributes>
+</sitesettings>
