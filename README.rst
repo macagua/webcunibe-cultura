@@ -7,7 +7,7 @@ Introducción
 
 Este repositorio contiene todos los recursos de la antigua 
 pagina del departamento de Cultura del Colegio Universitario 
-Dr. Rafael Belloso Chacín (CUNIBE).
+Dr. Rafael Belloso Chacín (CUNIBE) en la época de 2000 - 2004.
 
 Características
 ===============
