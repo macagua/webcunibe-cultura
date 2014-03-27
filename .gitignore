@@ -4,6 +4,7 @@
 *.swp
 *.wpr
 .project
+Thumbs.db
 
 # OSX
 .DS_Store
