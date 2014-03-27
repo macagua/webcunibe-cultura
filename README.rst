@@ -38,7 +38,7 @@ en Github.com.
 
 Para descargar una copia del repositorio Git ejecute el siguiente comando: ::
 
-  git clone https://github.com/macagua/webcunibe-cultura.git
+  git clone https://github.com/macagua/webcunibe-cultura.git cultura
 
 Autor(es) Original(es)
 ======================
